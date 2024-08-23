@@ -20,7 +20,7 @@ body {
 .topnav a {
   float: left;
   display: block;
-  color: #000000;
+  color: #ffffff;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -42,7 +42,7 @@ img {
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
-  width: 12%px;
+  width: 12%;
 }
 
 /* Style the footer */
