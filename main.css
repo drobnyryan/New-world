@@ -1,27 +1,46 @@
 /* The main CSS file for the website */
 
+* {
+  box-sizing: border-box;
+  font-family: Verdana, Arial, sans-serif;
+}
+
 body {
-  background-color:#ffffff;
+  margin: 0;
+  font-family: Verdana, Arial, sans-serif;
 }
 
-h1 {
-  color:#314159;
-  font-family: "Garamond", "Times New Roman";
-  margin-left: 30px;
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
 }
 
-p {
-  color:#314159;
-  font-family: "Verdana", "Arial";
-  font-size:18px;
-  margin-left:5%;
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
 
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
 }
-img {
-  border: 1px solid #000000;
-  border-radius: 5px;
-  padding: 4px;
-  width: 10%;
+
+/* Style the content */
+.content {
+  background-color: #ddd;
+  padding: 10px;
 }
-  
+
+/* Style the footer */
+.footer {
+  background-color: #f1f1f1;
+  padding: 10px;
+}
   
