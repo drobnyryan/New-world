@@ -37,6 +37,13 @@ body {
   background-color: #ddd;
   padding: 10px;
 }
+/* Style images */
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 12%px;
+}
 
 /* Style the footer */
 .footer {
