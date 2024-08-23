@@ -1,0 +1,19 @@
+/* The main CSS file for the website */
+
+body {
+  background-color:#ffffff;
+}
+
+h1 {
+  color:#314159;
+  font-family: "Garamond", "Times New Roman";
+  margin-left: 30px;
+}
+
+p {
+  color:#314159;
+  font-family: "Verdana", "Arial";
+  font-size:18px;
+  margin-left:5%;
+
+}
