@@ -17,3 +17,11 @@ p {
   margin-left:5%;
 
 }
+img {
+  border: 1px solid #000000;
+  border-radius: 5px;
+  padding: 4px;
+  width: 10%;
+}
+  
+  
